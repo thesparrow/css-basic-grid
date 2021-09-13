@@ -21,7 +21,7 @@ We will build a very basic grid: 2 rows and 3 columns:
 
 We will build a very basic grid: 2 rows and 3 columns:
 
-![Screenshot](https://github.com/thesparrow/css-basic-grid/blob/main/img/css-basic-grid/png?raw=true)
+![Screenshot](https://github.com/thesparrow/css-basic-grid/blob/main/img/css-basic-grid.png?raw=true)
 
 Some good terms to know: 
 
