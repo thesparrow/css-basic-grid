@@ -1,7 +1,7 @@
 
-
 ** All style is added to the document file for training purposes - more advanced techniques exist for better organization* 
 
+## CSS Grid System
 CSS Grid is a two-dimensional grid-based layout system that helps developers create beautiful responsive web design user interfaces. 
 
 CSS grid system can be used with Flexbox - more on this later - but just to keep
@@ -9,13 +9,6 @@ in mind Flexbox has one-directional flow.
 
 CSS grid system takes a bit of time to learn - but the results are worth it! 
 Follow me to get started.
-
-# Build a grid + Terminology 
-
-We will build a very basic grid: 2 rows and 3 columns:
-
-![Screenshot](https://github.com/thesparrow/border-box/blob/main/img/border-box.png?raw=true)
-
 
 ### Build a grid + Terminology 
 
@@ -25,15 +18,15 @@ We will build a very basic grid: 2 rows and 3 columns:
 
 Some good terms to know: 
 
-<strong> Grid Container <strong> 
+<strong> Grid Container </strong> 
 
 The element to which *display: grid* is applied. It is the start of your grid, and this is usually the container that will hold anything you are placing in the grid. 
 
-<strong> Grid Item <strong> 
+<strong> Grid Item </strong> 
 
 The element that exists in the grid as a direct 'child' of the the grid 'parent'. You can set the location with properties like *grid-column-start*, *grid-column-end*, *grid-row-start* and *grid-column-end*. 
 
-<strong> Grid Line <strong> 
+<strong> Grid Line </strong> 
 These are the dividing lines that make up the structure grid - the can use vertical and horizontal lines. 
 
 
